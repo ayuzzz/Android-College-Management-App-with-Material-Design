@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="NEWSFEED">
+        <menu>
+            <item
+                android:title="Gallery"
+                android:id="@+id/gallery"
+                android:icon="@drawable/gallery"
+                />
+
+            <item android:title="Notices"
+                android:id="@+id/notices"
+                android:icon="@drawable/notices"
+             />
+
+        </menu>
+    </item>
+
+    <item android:title="ACADEMICS">
+        <menu>
+            <item
+                android:title="Time Tables"
+                android:id="@+id/timetables"
+                android:icon="@drawable/timetables"
+                />
+
+            <item android:title="Attendance"
+                android:id="@+id/attendance"
+                android:icon="@drawable/attendance"
+                />
+            <item android:title="Results"
+                android:id="@+id/results"
+                android:icon="@drawable/results"
+                />
+
+
+            <item android:title="Downloads"
+                android:id="@+id/downloads"
+                android:icon="@drawable/download_icon"
+                />
+
+            <item android:title="Fee Structure"
+                android:id="@+id/fee"
+                android:icon="@drawable/fee"
+                />
+
+        </menu>
+    </item>
+
+    <item android:title="PLACEMENTS">
+        <menu>
+            <item
+                android:title="Statistics"
+                android:id="@+id/statistics"
+                android:icon="@drawable/placements"
+                />
+        </menu>
+    </item>
+
+    <item android:title="FACULTY">
+        <menu>
+            <item
+                android:title="Teaching Staff"
+                android:id="@+id/teaching"
+                android:icon="@drawable/teaching"
+                />
+
+
+
+        </menu>
+    </item>
+
+
+    <item android:title="OTHERS">
+        <menu>
+            <item
+                android:title="About Us"
+                android:id="@+id/aboutus"
+                android:icon="@drawable/aboutus"
+                />
+
+            <item android:title="Share"
+                android:id="@+id/share"
+                android:icon="@drawable/share"
+                />
+
+        </menu>
+    </item>
+
+
+
+
+
+</menu>

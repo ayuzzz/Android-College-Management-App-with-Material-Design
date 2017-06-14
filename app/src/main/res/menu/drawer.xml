@@ -1,0 +1,79 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="NEWSFEED">
+        <menu>
+            <item
+                android:title="Gallery"
+                android:id="@+id/gallery"
+                />
+
+            <item android:title="Notices"
+                android:id="@+id/notices"
+                />
+
+        </menu>
+    </item>
+
+    <item android:title="ACADEMICS">
+        <menu>
+            <item
+                android:title="Time Tables"
+                android:id="@+id/timetables"
+                />
+
+            <item android:title="Attendance"
+                android:id="@+id/attendance"
+                />
+            <item android:title="Results"
+                android:id="@+id/results"
+                />
+
+            <item android:title="Fee Structure"
+                android:id="@+id/fee"
+                />
+
+        </menu>
+    </item>
+
+    <item android:title="PLACEMENTS">
+        <menu>
+            <item
+                android:title="Statistics"
+                android:id="@+id/statistics"
+                />
+        </menu>
+    </item>
+
+    <item android:title="FACULTY">
+        <menu>
+            <item
+                android:title="Teaching Staff"
+                android:id="@+id/teaching"
+                />
+
+            <item android:title="Non-Teaching Staff"
+                android:id="@+id/nteaching"
+                />
+
+        </menu>
+    </item>
+
+
+    <item android:title="OTHERS">
+        <menu>
+            <item
+                android:title="About Us"
+                android:id="@+id/aboutus"
+                />
+
+            <item android:title="Share"
+                android:id="@+id/share"
+                />
+
+        </menu>
+    </item>
+
+
+
+
+
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "668377907891",
+    "firebase_url": "https://skncomp-70cb7.firebaseio.com",
+    "project_id": "skncomp-70cb7",
+    "storage_bucket": "skncomp-70cb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668377907891:android:08b637cc49f2a780",
+        "android_client_info": {
+          "package_name": "com.example.skn_comp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668377907891-vipubc0b2stm9tbqaq383bptuesogrn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCeMkHtwKUBgCx8ccduU-POcZ87Wro2YM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
