@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_c9a2fcd7ddf8e62dada7926c09810abde503d6ea\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_bcccfa10870c5a5f1716be40f3aee48c8635fbb6\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="df7b50ec047648cc71075ec1ee24d3c9cf337e41">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.1_d07eb4553d334ce9c9c0835c24709595fb1b9d70\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_26ae508d827dd9009281622aa437624e420299b7\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4a7fe0c54c4e935741fc0c8e7b44db8c3ff150fe">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c3f91ce6be1a43d27950adc204c6ab5e9896ec8b\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\android.lib.verticalmarqueetextview\VerticalMarqueeTextView\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="25485419cde54a3ff889e966c98a8f3d987302a4">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\android.lib.verticalmarqueetextview-VerticalMarqueeTextView-1.0.2_b161a1df95d898ee4517c8c7a75a132fa469a77a\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="13270ae22369a0d50cb6c560aeca4056f025cae6">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.1_10ee14b4c80f24237aca0ba56557fd0ab377d7dc\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_c56790b15235996ba13e6d7ad8731a4103596a08\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b94d84286db4c24557b661015bc67497444a4071">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.1_82929b66b52f85a612899366db5b77ab7681ba07\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a3ebac72ca6befe2e900427505dbb3dd58a5ebbf">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.1_6f36e6a3c8380dba30892799ec81c71cbd1481e7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_c7502b863c00436a6bc3fefb884ac0b5f2477869\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="34375e2adbbe36bc39f2b5fae55d549b9efc77e6">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.1_5ea7cf7cb6c2913b4cb81a7d22c393eba5116bc4\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d01902a80cb52c283941b014b1ad4d466402ac0a">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.1_ed4eb88d2ff03fb586f1d831667b5390470f8ff7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_c0c74f19dda6785fb71628f7a09657bcd1f6afbf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_56487dcc601537ec955eea625d9774ba24b2cff3\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3ce92781434cb536411e20a157d97f5b7470bb9b">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_075934bf23b3a29dabfa086905df46385f07d6de\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_9ea1530e0b1cec5f5567f7809b03d01596f5d745\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_cbccd78e606c8d619a9460b580fd551543efd675\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.clans-fab-1.6.2_596cdc4abb2194f0e2e8fefae96403a70d761415\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e711046a40e1562d85854ee09cd0a05254cb6463">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.1_45a83730358fcc49b25ab4d280db4024d9d4ce2c\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_4cde4a7152676d8240b8d62c6f665bc077ccf5bc\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.1_e8275a76e625eaad148618098f6c9578e38618c3\classes.dex" />
+    </item>
+    <item
+        jar="D:\harsh\SKN-COMP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\harsh\SKN-COMP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_97ea0af20cb69514bc69de1ae766a2a4ae2e5524\classes.dex" />
+    </item>
+
+</items>
